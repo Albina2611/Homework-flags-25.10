@@ -1,0 +1,148 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: lightgrey;
+}
+.conteiner{
+    max-width: 500px;
+    margin: 0 auto;
+}
+.flag-greece{
+    height: 315px;
+    width: 500px;
+    background: royalblue;
+}
+h1{
+    text-align: center;
+}
+.l1{
+    width: 500px;
+    height: 36px;
+    background: white;
+    position: absolute;
+    top: 301px;
+}
+.l2{
+    width: 500px;
+    height: 36px;
+    background: white;
+    position: absolute;
+    top: 233px;
+}
+.l3{
+    width: 322px;
+    height: 36px;
+    background: white;
+    position: absolute;
+    top: 161px;
+    left: 681px;
+}
+.l4{
+    width: 322px;
+    height: 36px;
+    background: white;
+    position: absolute;
+    top: 90px;
+    left: 681px;
+}
+.l5{
+    width: 36px;
+    height: 177px;
+    background: white;
+    position: relative;
+    left: 73px;
+}
+.l6{
+    width: 179px;
+    height: 36px;
+    background: white;
+    position: relative;
+    top: -107px;
+    
+}
+.P1{
+    width: 50px;
+    height: 315px;
+    background: red;
+    margin: 0 auto;
+}   
+
+.flag2{
+    width: 500px;
+    height: 315px;
+    background: white;
+}
+.P2{
+    width: 500px;
+    height: 50px;
+    background: red;
+    position: relative;
+    top: -176px;
+}
+.p1{
+    width: 15px;
+    height: 56px;
+    background: red;
+    position: relative;
+    top: -320px;
+    right: -107px;
+}
+.p12{
+    width: 56px;
+    height: 15px;
+    background: red;
+    position: relative;
+    top: -355px;
+    right: -87px;
+}
+.p2{
+    width: 15px;
+    height: 56px;
+    background: red;
+    position: relative;
+    top: -388px;
+    right: -379px;
+}
+.p22{
+    width: 56px;
+    height: 15px;
+    background: red;
+    position: relative;
+    top: -423px;
+    right: -358px;
+}
+.p3{
+    width: 56px;
+    height: 15px;
+    background: red;
+    position: relative;
+    top: -259px;
+    right: -87px;
+}
+.p32{
+    width: 15px;
+    height: 56px;
+    background: red;
+    position: relative;
+    top: -293px;
+    right: -108px;
+}
+.p4{
+    width: 56px;
+    height: 15px;
+    background: red;
+    position: relative;
+    top: -329px;
+    right: -360px;
+}
+.p42{
+    width: 15px;
+    height: 56px;
+    background: red;
+    position: relative;
+    top: -363px;
+    right: -381px;
+}
